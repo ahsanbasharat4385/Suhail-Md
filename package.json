@@ -61,8 +61,7 @@
               "util": "^0.12.4",
               "wa-sticker-formatter": "^4.3.2",
               "youtubei.js": "^7.0.0",
-              "ytdl-secktor": "^0.0.1-development",
-              "link-preview-js": "^3.0.0"
+              "ytdl-secktor": "^0.0.1-development"
     },
     "scripts": {        
         "run": "pm2 start . --deep-monitoring --attach --name smd",
